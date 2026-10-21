@@ -1,3 +1,2 @@
 # exercise-2
-line 3
-hi
+line 2
